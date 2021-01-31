@@ -18,8 +18,11 @@ Reddit:
 - Teddit, [Website](https://teddit.net), [Instances](https://codeberg.org/teddit/teddit#instances), [Source code](https://codeberg.org/teddit/teddit)
 - Slide, [Releases](https://github.com/ccrama/Slide/releases), [Source code](https://github.com/ccrama/Slide), [F-droid](https://f-droid.org/en/packages/me.ccrama.redditslide/)
 
-Facebook:
-- Frost, [Releases](https://github.com/AllanWang/Frost-for-Facebook/releases), [Source code](https://github.com/AllanWang/Frost-for-Facebook), [F-droid](https://f-droid.org/en/packages/com.pitchedapps.frost/)
-
 Soundcloud:
 - NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
+
+Facebook:
+- Frost (Facebook Login Required), [Releases](https://github.com/AllanWang/Frost-for-Facebook/releases), [Source code](https://github.com/AllanWang/Frost-for-Facebook), [F-droid](https://f-droid.org/en/packages/com.pitchedapps.frost/)
+
+Facebook Messenger:
+- Caprine (Messenger Login Required), [Releases](https://github.com/sindresorhus/caprine/releases), [Source code](https://github.com/sindresorhus/caprine)
