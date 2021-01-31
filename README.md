@@ -4,8 +4,8 @@ Website front-end alternative directory
 Youtube:
 - Invidious, [Website](https://invidious.snopyta.org), [Instances](https://invidio.us), [Source code](https://github.com/iv-org/invidious)
 - Cloudtube, [Website](https://tube.cadence.moe), [Source code](https://git.sr.ht/~cadence/cloudtube)
-- FreeTube, [Releases](https://github.com/FreeTubeApp/FreeTube/releases), [Source code](https://github.com/FreeTubeApp/FreeTube), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
-- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe)
+- FreeTube, [Releases](https://github.com/FreeTubeApp/FreeTube/releases), [Source code](https://github.com/FreeTubeApp/FreeTube)
+- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
 
 Instagram:
 - Bibliogram, [Website](https://bibliogram.art), [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md), [Source code](https://git.sr.ht/~cadence/bibliogram)
