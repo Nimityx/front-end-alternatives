@@ -1,4 +1,4 @@
-# front-end-alternatives
+# privacy-alternatives
 Front-end alternative and privacy client directory
 
 ## Front-end Alternatives
