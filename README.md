@@ -27,6 +27,7 @@ Soundcloud:
 
 Facebook:
 - Frost, [Releases](https://github.com/AllanWang/Frost-for-Facebook/releases), [Source code](https://github.com/AllanWang/Frost-for-Facebook), [F-droid](https://f-droid.org/en/packages/com.pitchedapps.frost/)
+- SlimSocial, [Releases](https://github.com/rignaneseleo/SlimSocial-for-Facebook/releases), [Source code](https://github.com/rignaneseleo/SlimSocial-for-Facebook), [F-droid](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/), [Google Play](https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook)
 
 Facebook Messenger:
 - Caprine, [Releases](https://github.com/sindresorhus/caprine/releases), [Source code](https://github.com/sindresorhus/caprine)
