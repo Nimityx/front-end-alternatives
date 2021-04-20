@@ -5,9 +5,8 @@ Front-end alternative and privacy client directory
 
 Youtube:
 - Invidious, [Website](https://invidious.snopyta.org), [Instances](https://invidio.us), [Source code](https://github.com/iv-org/invidious)
+- Piped, [Website](https://piped.kavin.rocks/), [Source code](https://github.com/TeamPiped/Piped)
 - Cloudtube, [Website](https://tube.cadence.moe), [Source code](https://git.sr.ht/~cadence/cloudtube)
-- FreeTube, [Releases](https://github.com/FreeTubeApp/FreeTube/releases), [Source code](https://github.com/FreeTubeApp/FreeTube)
-- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
 
 Instagram:
 - Bibliogram, [Website](https://bibliogram.art), [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md), [Source code](https://git.sr.ht/~cadence/bibliogram)
@@ -19,11 +18,12 @@ Reddit:
 - LibReddit, [Website](https://libredd.it), [Instances](https://github.com/spikecodes/libreddit#instances), [Source code](https://github.com/spikecodes/libreddit)
 - Teddit, [Website](https://teddit.net), [Instances](https://codeberg.org/teddit/teddit#instances), [Source code](https://codeberg.org/teddit/teddit)
 
-Soundcloud:
-- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
-
 ## Privacy Client
 (Most clients require login)
+
+Youtube:
+- FreeTube, [Releases](https://github.com/FreeTubeApp/FreeTube/releases), [Source code](https://github.com/FreeTubeApp/FreeTube)
+- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
 
 Facebook:
 - Frost, [Releases](https://github.com/AllanWang/Frost-for-Facebook/releases), [Source code](https://github.com/AllanWang/Frost-for-Facebook), [F-droid](https://f-droid.org/en/packages/com.pitchedapps.frost/)
@@ -50,8 +50,11 @@ Twitter:
 Telegram:
 - Telegram-FOSS, [Releases](https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases), [Source code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS), [F-droid](https://f-droid.org/app/org.telegram.messenger)
 
+Soundcloud:
+- NewPipe, [Releases](https://github.com/TeamNewPipe/NewPipe/releases), [Source code](https://github.com/TeamNewPipe/NewPipe), [F-droid](https://f-droid.org/en/packages/org.schabi.newpipe/)
+
 ## Contributing
-1.  Fork it (https://github.com/Nimityx/privacy-alternatives/fork)
+1.  Fork it ([https://github.com/Nimityx/privacy-alternatives/fork](https://github.com/Nimityx/privacy-alternatives/fork))
 2.  Create your feature branch (git checkout -b my-new-feature)
 3.  Commit your changes (git commit -am 'Add some feature')
 4.  Push to the branch (git push origin my-new-feature)
